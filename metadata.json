@@ -1,0 +1,10 @@
+{
+  "name": "Netwatch Surveillance",
+  "description": "Painel avançado para monitoramento de tráfego de rede e análise de segurança preditiva com IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "Análise de logs com IA",
+    "Visualização de dados em tempo real",
+    "Monitoramento de protocolos"
+  ]
+}
